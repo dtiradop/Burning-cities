@@ -4,4 +4,6 @@ Descripción del proyecto: Como estudiantes de la Universidad Autónoma de Occid
 
 Objetivo: Desarrollar un propotipo de sistema multimedia que lance una alarma en el momento en que es detectado el incendio, además de desplegar un mapa con la ubicación actual del usuario y también la del punto de encuentro más cercano, de esta manera el usuario podrá desplazarse con más facilidad hacia estos.
 
-Herramientas usadas: Adobe XD , Metodologías UX y UI.
+Herramientas usadas: Adobe XD , Metodologías UX y UI. 
+
+Captura: https://github.com/dtiradop/Burning-cities/blob/main/Adobe%20XD%202019-09-02%2023-12-19.mp4
